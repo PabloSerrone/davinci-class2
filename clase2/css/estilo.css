@@ -1,0 +1,42 @@
+h1 {
+    color: rgb(36, 134, 102);
+    background-color:rgb(111, 197, 223) ;
+    font-size: 36px;
+
+    /* para centrar seria text-align: center  */
+}
+
+h2{
+    color:rgb(17, 48, 58);
+}
+
+body{
+   background-color: rgb(47, 162, 197);
+   font-family: Arial, Helvetica, sans-serif;
+}
+
+.texto-violeta{
+    color:rgb(68, 0, 255) ;
+}
+
+.fondo-oscuro {
+    background-color: rgb(34, 108, 131)
+}
+
+a{
+    color:rgb(255, 0, 0);
+    text-decoration: none;
+}
+
+a:hover{
+    text-decoration: underline;
+    color:rgb(175, 47, 47);
+    font-size: 18px;
+}
+
+/* para sacar los puntos de las listas desordenadas es 
+    ul {
+        list-style: none;
+    }
+
+*/
